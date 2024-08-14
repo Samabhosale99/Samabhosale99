@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samabhosale99
+- 👋 Hi, I’m Samarth
 - 👀 I’m interested in Full stack web development
 - 🌱 I’m currently learning Frameworks of Java
 - 💞️ I’m looking to collaborate on open source projects
