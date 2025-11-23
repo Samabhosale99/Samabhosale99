@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Samarth
-- 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Frameworks of Java
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me - samarth.bhosale147@gmail.com
+👋 Hey! I'm a passionate Automation Test Engineer
 
-<!---
-Samabhosale99/Samabhosale99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 I build reliable, scalable, and maintainable test automation solutions
+💡 I love turning manual flows into efficient automation pipelines
+
+🛠 Tech Stack
+
+Languages: Java
+
+Web Automation: Selenium, TestNG, Maven
+
+API Testing: Postman, RestAssured
+
+Mobile Testing: Appium
+
+Tools: PLaywright, GitHub Actions, Jenkins
+
+🌟 What I’m working on
+
+✔ Strengthening full-stack automation (Web + Mobile + API)
+✔ Creating reusable automation frameworks
+✔ Improving CI/CD test integration
+
+🚀 My Goal
+
+To grow as a full-fledged automation expert and contribute to projects that value clean testing, strong QA processes, and smart engineering.
